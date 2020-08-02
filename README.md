@@ -2,6 +2,10 @@
 
 > Using Hooks and Context API
 
+#### Preview:
+
+![preview](https://github.com/Rohan-Shakya/Expense-Tracker-React-App/blob/master/src/images/preview.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
